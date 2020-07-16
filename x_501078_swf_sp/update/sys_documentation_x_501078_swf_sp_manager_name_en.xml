@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="name" label="Name" language="en" table="x_501078_swf_sp_manager">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_501078_swf_sp_manager</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-16 08:20:20</sys_created_on>
+            <sys_id>4a85b31d2fca14106183dcb6f699b649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="SWF-sp" source="x_501078_swf_sp">861849bc2fa110106183dcb6f699b605</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SWF-sp">861849bc2fa110106183dcb6f699b605</sys_scope>
+            <sys_update_name>sys_documentation_x_501078_swf_sp_manager_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-16 08:20:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
